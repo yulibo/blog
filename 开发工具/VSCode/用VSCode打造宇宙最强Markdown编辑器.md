@@ -9,7 +9,7 @@
 1. First item
 2. Second item
 3. Third item
-    1. Indented item 
+    1. Indented item
     2. Indented item
 4. Fourth item
 
@@ -36,3 +36,4 @@ My favorite search engine is [Duck Duck Go](https://duckduckgo.com "The best sea
 
 <htt://www.markdownguide.org>
 <fake@example.com>
+![图片测试](../../assets/images/2020-11-25-16-05-05.png)
