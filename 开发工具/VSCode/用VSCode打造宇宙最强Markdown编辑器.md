@@ -10,4 +10,4 @@
 
 **原文：<https://my.oschina.net/leozhangit/blog/4688394>**
 
-![测试图片](../../assets/images/2020-11-25-16-53-59.png)
+![测试图片](/assets/images/2020-11-25-16-53-59.png)
