@@ -145,8 +145,10 @@ RUN set -ex \
 ### 结尾
 配置到这里恭喜你，已经大功告成,让我们来试一下吧
 ![](/assets/images/20210103114918.png)
-第三步：
-注意点：ctrl+shift+p后上方出现弹出，请选择`phpunit Test`
+
+第三步注意点：ctrl+shift+p后上方出现弹出，请选择`phpunit Test`
 ![](/assets/images/20210103115042.png)
 
 执行结果：
+![](/assets/images/20210103115431.png)
+
